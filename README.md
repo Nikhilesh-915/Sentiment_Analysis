@@ -9,7 +9,6 @@ The goal of this project is to build and evaluate a classifier that can accurate
 ## Features
 
 - *Image Classification*: Classify images as either "cat" or "dog."
-- *High Accuracy*: Achieves [insert accuracy]% on the [insert dataset name] dataset.
 - *Pre-trained Model*: Comes with a pre-trained model that can be used out of the box.
 - *Custom Training*: Option to train the model with your own dataset.
 
@@ -29,7 +28,7 @@ To get started with the Cats vs Dogs Classifier, follow these steps:
 1. Clone the repository:
 
     bash
-    git clone https://github.com/your-username/cats-vs-dogs-classifier.git
+    git clone https://github.com/Nikhilesh-915/Sentiment_Analysis.git
     cd cats-vs-dogs-classifier
     
 
@@ -81,11 +80,6 @@ To evaluate the performance of the model on a test set, run:
 
 bash
 python evaluate.py --data-dir path/to/test-dataset
-
-
-## Results
-
-The model achieves an accuracy of [insert accuracy]% on the test set. For detailed performance metrics, refer to the evaluation_report.md file.
 
 ## Contributing
 
