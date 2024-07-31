@@ -30,7 +30,7 @@ To get started with the Sentiment Analysis of Restaurant Reviews, follow these s
 1. Clone the repository:
 
     bash
-    git clone https://github.com/your-username/sentiment-analysis-restaurant-reviews.git
+    git clone https://github.com/Nikhilesh-915/Sentiment_Analysis.git
     cd sentiment-analysis-restaurant-reviews
     
 
@@ -86,12 +86,7 @@ Visualize sentiment distribution and review trends using:
 bash
 python visualize.py --data-file path/to/review-data.csv
 
-
 This will generate plots and charts showing the sentiment distribution across reviews.
-
-## Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
 
 ## License
 
